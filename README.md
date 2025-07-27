@@ -1,6 +1,6 @@
 # Something Special inside !
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration.
+This project is designed to be an interactive webpage to ask someone to be special. Please use this code as inspiration.
 ---
 ## Respect Open-Source
 I built this for **fun & learning**. If you fork or modify it:  
